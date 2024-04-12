@@ -4,3 +4,6 @@ pydeck==0.8.1b0
 smmap==5.0.1
 streamlit==1.33.0
 watchdog==4.0.0
+tensorflow==2.15.0
+cv2==4.8.0
+PIL==9.4.0
